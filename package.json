@@ -1,6 +1,6 @@
 {
   "name": "maf-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some string functions in programming",
   "main": "index.js",
   "scripts": {
